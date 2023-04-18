@@ -48,7 +48,7 @@ const NavbarContainer = () => {
   return (
     <>
       <Navbar expand="sm">
-        <Navbar.Brand href="/">Ecommerce Store</Navbar.Brand>
+        <Navbar.Brand href="/">Ecommerceeeee Store</Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Button onClick={handleShow}>Cart {productCount} Items</Button>
