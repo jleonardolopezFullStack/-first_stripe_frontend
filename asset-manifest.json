@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//jleonardolopezFullStack.github.io/-first_stripe_frontend/static/css/main.756af292.css",
+    "main.js": "//jleonardolopezFullStack.github.io/-first_stripe_frontend/static/js/main.800ef5ae.js",
+    "index.html": "//jleonardolopezFullStack.github.io/-first_stripe_frontend/index.html",
+    "main.756af292.css.map": "//jleonardolopezFullStack.github.io/-first_stripe_frontend/static/css/main.756af292.css.map",
+    "main.800ef5ae.js.map": "//jleonardolopezFullStack.github.io/-first_stripe_frontend/static/js/main.800ef5ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.800ef5ae.js"
+  ]
+}
